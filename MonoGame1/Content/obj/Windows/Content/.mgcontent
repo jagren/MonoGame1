@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Sounds/yehaw.wav</File>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Sprites/bullet.png</File>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Sprites/coin.png</File>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Sprites/ship.png</File>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Sprites/tripod.png</File>
+    <File>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Utskrift/SpriteFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Utskrift/GameFont.spritefont</File>
+  </DestFiles>
+</SourceFileCollection>

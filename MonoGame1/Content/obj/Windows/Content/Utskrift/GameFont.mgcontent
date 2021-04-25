@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/Utskrift/SpriteFont.spritefont</SourceFile>
+  <SourceTime>2020-05-16T02:22:41.5906295+02:00</SourceTime>
+  <DestFile>C:/Users/joakim/source/repos/MonoGame1/MonoGame1/Content/bin/Windows/Content/Utskrift/GameFont.xnb</DestFile>
+  <DestTime>2020-05-16T02:23:11.6235121+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
