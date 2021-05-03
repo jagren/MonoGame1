@@ -81,7 +81,7 @@ namespace MonoGame1
             }
 
             Random slumpenemy = new Random();
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 5; i++)
             {
                 enemyship_pos.X = slumpenemy.Next(0, Window.ClientBounds.Width - 50);
                 enemyship_pos.Y = slumpenemy.Next(-200, 0);
